@@ -1,0 +1,1 @@
+This is a example of text to speech conversion using python. It uses basic tts principles to convert the written text to speech and save it as a voice note.
